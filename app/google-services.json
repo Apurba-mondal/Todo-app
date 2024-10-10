@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209951029226",
+    "project_id": "present-todo-c2d0e",
+    "storage_bucket": "present-todo-c2d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209951029226:android:c4dde3a007d08db77ba493",
+        "android_client_info": {
+          "package_name": "com.example.present_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dcROcCXAgKHaKiG-6vug7rpXOdmnaDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
